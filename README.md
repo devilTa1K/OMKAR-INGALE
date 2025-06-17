@@ -64,9 +64,9 @@
 
 ## ☠️ Let's Connect
 
-[![Instagram](https://img.shields.io/badge/@your_instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your_instagram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin)
-[![YouTube](https://img.shields.io/badge/LazyGeniusAI-black?style=flat&logo=youtube&logoColor=red)](https://youtube.com/@LazyGeniusAI)
+[![Instagram](https://img.shields.io/badge/@your_instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_chil_ace/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-ingale-a6b285365/)
+
 
 ---
 
